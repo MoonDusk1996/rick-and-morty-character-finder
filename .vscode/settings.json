@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6e3df2e0-f396-4e3e-9223-56593903df9c/microsoft.web/sites/subscriptions/6e3df2e0-f396-4e3e-9223-56593903df9c/resourceGroups/RMAPP/providers/Microsoft.Web/sites/rickandmortywebapp",
+    "appService.deploySubpath": "build"
+}
