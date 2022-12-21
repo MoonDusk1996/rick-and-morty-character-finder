@@ -1,0 +1,19 @@
+.character--container {
+  width: 43%;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: #292c2e;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+  border: 1px  solid #6fc41c;
+  color: white;
+}
+.cover--container {
+  color: #6fc41c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
