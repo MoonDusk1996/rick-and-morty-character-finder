@@ -31,7 +31,7 @@ function App() {
           <GetData page={page} search={search} />
         </div>
         <div id="pagination--container">
-          {search == ""?<div
+          {search === ""?<div
             style={{
               display: "flex",
               justifyContent: "center",

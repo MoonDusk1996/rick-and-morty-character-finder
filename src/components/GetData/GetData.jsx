@@ -31,6 +31,7 @@ export const GetData = ({ page, search }) => {
           <div className="cover--container">
             <img
               src={character.image}
+              alt={character.name + " card image"}
               style={{
                 width: "100%",
                 borderRadius: "3px",
