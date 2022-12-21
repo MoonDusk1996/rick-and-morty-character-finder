@@ -18,6 +18,9 @@ Rick and Morty - Character Search é uma aplicação WEB que faz a busca de todo
 
 
 ## Page / Download
+Website: https://happy-ocean-0db2d8110.2.azurestaticapps.net/
+App Download: 
+
 ## Preview
 ![Rick and Morty - Web app preview](https://github.com/MoonDusk1996/assets/blob/main/rick-and-morty-character-finder/Minimalist-Showcase-Project-Presentation.png)
 ## Referência
