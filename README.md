@@ -1,6 +1,6 @@
 
 # Rick and Morty - Character Search
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/MoonDusk1996/rick-and-morty-character-finder/blob/master/LICENCE)
 
 ## About
 Rick and Morty - Character Search is a WEB application that searches all characters from the TV show Rick and Morty for study purposes.
